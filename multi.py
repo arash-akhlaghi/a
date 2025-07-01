@@ -34,4 +34,6 @@ if __name__ == "__main__":
     # it is someting after ...
     print("netrunner")
     
+    # i wanna delete this 
+    print("delete")
     
