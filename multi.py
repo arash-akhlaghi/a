@@ -33,7 +33,5 @@ if __name__ == "__main__":
     print("after cloning")
     # it is someting after ...
     print("netrunner")
-    
-    # i wanna delete this 
-    print("delete")
+    # i delete that 
     
